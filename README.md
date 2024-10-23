@@ -15,14 +15,12 @@ HEX ASSignment
 |riseSlow|aabbff| 8fS 9fS 10sP 11sP|
 |sinkFast|aaccff|8rF 9rF 10sP 11sP|
 |sinkSlow|aaddff|9rS 9rS 10sP 11sP|
-
 |fwdFast|ccaaff|8sP 9sP 10fF 11fF|
 |fwdSlow|ccbbff|8sP 9sP 10fS 11fS|
 |revFast|ddaaff|8sP 9sP 10rF 11rF|
 |revSlow|ddbbff|8sP 9sP 10rS 11rS|
 |turnLeft|bbbbff|8sP 9sP 10fS 11rS|
 |turnRight|bbaaff|8sP 9sP 10rS 11fS|
-
 |clawOpen|eeaaff|12fF|
 |clawClose|eebbff|12rF|
 
