@@ -8,6 +8,7 @@
 |Protocol|UART|
 |Interface|Touch|
 
+
 HEX ASSignment  
 |Action|HEX|GPIO PWM signal|
 |------|---|---------------|
