@@ -22,6 +22,7 @@ HEX ASSignment
 |revSlow|ddbbff|8sP 9sP 10rS 11rS|
 |turnLeft|bbbbff|8sP 9sP 10fS 11rS|
 |turnRight|bbaaff|8sP 9sP 10rS 11fS|
+|fullStopp|eeeeff||
 |clawOpen|eeaaff|12fF|
 |clawClose|eebbff|12rF|
 
